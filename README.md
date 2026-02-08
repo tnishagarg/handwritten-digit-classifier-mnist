@@ -70,7 +70,7 @@ The model generalizes well on unseen test data.
 
 ![Test Predictions Grid](images/test_predictions.png)
 
-The first image shows a **5×5 grid of 25 handwritten digit images** selected from the MNIST test dataset.
+The image shows a **5×5 grid of 25 handwritten digit images** selected from the MNIST test dataset.
 
 - Each image is a **28×28 grayscale digit**
 - The label below each image shows the **model’s predicted digit**
@@ -82,7 +82,7 @@ The first image shows a **5×5 grid of 25 handwritten digit images** selected fr
 
 ![Softmax Probability Plot](images/softmax_probability.png)
 
-The second image represents the **softmax probability distribution** for a single test image.
+The image represents the **softmax probability distribution** for a single test image.
 
 - **X-axis:** Digit classes (0–9)
 - **Y-axis:** Prediction probability
